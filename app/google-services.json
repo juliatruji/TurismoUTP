@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "94277569334",
+    "firebase_url": "https://turismoutpandroid.firebaseio.com",
+    "project_id": "turismoutpandroid",
+    "storage_bucket": "turismoutpandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94277569334:android:2daf0f78f0c2f032254197",
+        "android_client_info": {
+          "package_name": "com.tdlzgroup.turismoutp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94277569334-qvcgo7e0u75pu9723dbh2klquho4r36s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUaldJmEirSmdYaTQ9mnHskeAh6SKGE0"
+        },
+        {
+          "current_key": "AIzaSyBeqp6AEvKkEKcyRZpEuxFVoeRYL2P3JrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94277569334-qvcgo7e0u75pu9723dbh2klquho4r36s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
